@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    float: right;
+    border: solid black;
+    padding: 1.5em;
+    margin-left: 1em;
+
+}
